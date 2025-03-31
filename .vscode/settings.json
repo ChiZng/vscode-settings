@@ -138,6 +138,7 @@
       // 跳转行号 或者使用 normal模式下 数字+gg
       "<C-g>": false,
       "<C-z>": false,
+      "<C-p>": false
   },
   "extensions.experimental.affinity": {
       "vscodevim.vim": 1
