@@ -1,5 +1,6 @@
 {
   "editor.fontFamily": "'JetBrains Mono','Droid Sans Mono', 'monospace', monospace",
+  "editor.fontLigatures": true,
   "editor.fontSize": 17,
   "editor.formatOnSave": false,
   "editor.codeActionsOnSave": {
@@ -149,6 +150,7 @@
   "workbench.tree.indent": 10,
   "workbench.editor.closeOnFileDelete": true,
   "workbench.editor.highlightModifiedTabs": true,
+  
 
   // 只在手动格式化时使用prettier
   "prettier.enable": false,
