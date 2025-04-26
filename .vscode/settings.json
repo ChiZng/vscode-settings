@@ -144,6 +144,7 @@
   "extensions.experimental.affinity": {
       "vscodevim.vim": 1
   },
+  "workbench.activityBar.orientation": "vertical",
   "workbench.iconTheme": "catppuccin-mocha",
   "workbench.preferredLightColorTheme": "Default Dark Modern",
   "workbench.list.smoothScrolling": true,
